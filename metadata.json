@@ -1,0 +1,6 @@
+{
+  "name": "Scania Template",
+  "description": "Template institucional e showroom de caminhões Scania baseado na estrutura iPortfolio com veículos pesados, serviços conectados, especificações e contato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
